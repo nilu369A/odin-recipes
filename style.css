@@ -5,4 +5,28 @@
 
 .title {
     display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    color: rgb(27, 27, 27);
+
+}
+
+.home-page {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    box-shadow: solid black 20px 9px 9px 9px;
+}
+
+img {
+    border-radius: 20px;
+
+}
+
+.title-card {
+    height: auto;
+    width: 500px;
+    background-color: #476072;
 }
